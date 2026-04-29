@@ -35,7 +35,7 @@ st.markdown("#### 7. ADIDAS ULTRABOOST:")
 st.image('https://cdn.vnda.com.br/780x/pardalsneakers/2023/08/21/22_10_49_241_tenis_adidas_ultraboost_20_city_pack_sydney_1767_1_fa67e1d2dc0b81c60998740f51363015_20210812081452.png?v=1692666649')
 st.write('-> Você gosta de performance, qualidade premium e estar sempre um passo à frente.')
 
-st.markdown("----")
+st.markdown("-")
 st.markdown("## DESCUBRA O SEU")
 
 opcao = st.selectbox(
