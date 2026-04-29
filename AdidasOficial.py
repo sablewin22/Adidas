@@ -48,7 +48,7 @@ if opcao == "Clique e escolha":
     st.write()
 elif opcao == "Sou clássico e estiloso.":
     st.success("Modelo Samba")
-    st.image('https://cdn.dooca.store/296/products/tenis-samba-adv-branco-ie6613-01-standard-photoroom.png?v=1731442037')
+    st.image('https://product-images-cdn.liketoknow.it/EcmHp.l1RPi0s5uVQ5GK07Hke2aef.jJU8NQyq3Dxu8Wl8GjLsrigSvFvNm2mtPTngynWlyfs8U_lW0Rjqp4eziwUwq.EX.ZnYK0h3hLpW4FypBIWNi4IpaK3RNdRPfnCBwoJpYSFVw9I4YDcaYiKw--?v=2&auto=format&fm=webp&w=256&h=256&fit=crop&q=80')
 elif opcao == "Sou criativo, leve e casual.":
     st.success("Modelo Campus")
 elif opcao == "Tenho personalidade forte e bom gosto.":
