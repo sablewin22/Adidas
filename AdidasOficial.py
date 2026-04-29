@@ -43,18 +43,18 @@ opcao = st.selectbox(
     ["Samba", "Campus", "Gazelle", "Forum", "Superstar", "NMD", "Ultraboost"]
 )
 
-if opcao == "Samba":
-    st.write("Você é clássico e estiloso.")
-elif opcao == "Campus":
-    st.write("Você é criativo, leve e casual.")
-elif opcao == "Gazelle":
-    st.write("Você tem personalidade forte e bom gosto.")
-elif opcao == "Forum":
-    st.write("Você é moderno e confiante.")
-elif opcao == "Superstar":
-    st.write("Você gosta de se destacar.")
-elif opcao == "NMD":
-    st.write("Você ama conforto e inovação.")
-elif opcao == "Ultraboost":
-    st.write("Você busca performance e excelência.")
+if opcao == "Samba""Você é clássico e estiloso.":
+    st.success("Samba")
+elif opcao == "Você é criativo, leve e casual.":
+    st.success("Campus")
+elif opcao == "Gazelle""Você tem personalidade forte e bom gosto.":
+    st.success("Gazelle")
+elif opcao == "Você é moderno e confiante.":
+    st.success("Forum")
+elif opcao == "Você gosta de se destacar.":
+    st.success("Superstar")
+elif opcao == "Você ama conforto e inovação.":
+    st.success("NMD")
+elif opcao == "Você busca performance e excelência.":
+    st.success("Ultraboost")
 
