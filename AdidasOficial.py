@@ -43,11 +43,11 @@ opcao = st.selectbox(
     ["Samba", "Campus", "Gazelle", "Forum", "Superstar", "NMD", "Ultraboost"]
 )
 
-if opcao == "Samba""Você é clássico e estiloso.":
+if opcao == "Você é clássico e estiloso.":
     st.success("Samba")
 elif opcao == "Você é criativo, leve e casual.":
     st.success("Campus")
-elif opcao == "Gazelle""Você tem personalidade forte e bom gosto.":
+elif opcao == "Você tem personalidade forte e bom gosto.":
     st.success("Gazelle")
 elif opcao == "Você é moderno e confiante.":
     st.success("Forum")
