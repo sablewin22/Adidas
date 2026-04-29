@@ -40,24 +40,24 @@ st.markdown("## DESCUBRA O SEU")
 
 opcao = st.selectbox(
     "Escolha o que mais combina com a sua personalidade:",
-    ["Clique e escolha","Você é clássico e estiloso.","Você é criativo, leve e casual.","Você tem personalidade forte e bom gosto.","Você é moderno e confiante.","Você gosta de se destacar.",
-     "Você ama conforto e inovação.","Você busca performance e excelência."]
+    ["Clique e escolha","Sou clássico e estiloso.","Sou criativo, leve e casual.","Tenho personalidade forte e bom gosto.","Sou moderno e confiante.","Gosta de me destacar.","Amo conforto e inovação.",
+"Busco performance e excelência."]
 )
 
 if opcao == "Clique e escolha":
     st.write()
-elif opcao == "Você é clássico e estiloso.":
+elif opcao == "Sou clássico e estiloso.":
     st.success("Samba")
-elif opcao == "Você é criativo, leve e casual.":
+elif opcao == "Sou criativo, leve e casual.":
     st.success("Campus")
-elif opcao == "Você tem personalidade forte e bom gosto.":
+elif opcao == "Tenho personalidade forte e bom gosto.":
     st.success("Gazelle")
-elif opcao == "Você é moderno e confiante.":
+elif opcao == "Sou moderno e confiante.":
     st.success("Forum")
-elif opcao == "Você gosta de se destacar.":
+elif opcao == "Gosta de me destacar.":
     st.success("Superstar")
-elif opcao == "Você ama conforto e inovação.":
+elif opcao == "Amo conforto e inovação.":
     st.success("NMD")
-elif opcao == "Você busca performance e excelência.":
+elif opcao == "Busco performance e excelência.":
     st.success("Ultraboost")
 
