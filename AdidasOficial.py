@@ -45,7 +45,7 @@ opcao = st.selectbox(
 )
 
 if opcao == "Clique e escolha":
-    st.success()
+    st.write(-)
 elif opcao == "Você é clássico e estiloso.":
     st.success("Samba")
 elif opcao == "Você é criativo, leve e casual.":
