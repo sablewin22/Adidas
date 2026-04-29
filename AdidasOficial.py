@@ -47,17 +47,17 @@ opcao = st.selectbox(
 if opcao == "Clique e escolha":
     st.write()
 elif opcao == "Sou clássico e estiloso.":
-    st.success("Samba")
+    st.success("Modelo Samba")
 elif opcao == "Sou criativo, leve e casual.":
-    st.success("Campus")
+    st.success("Modelo Campus")
 elif opcao == "Tenho personalidade forte e bom gosto.":
-    st.success("Gazelle")
+    st.success("Modelo Gazelle")
 elif opcao == "Sou moderno e confiante.":
-    st.success("Forum")
+    st.success("Modelo Forum")
 elif opcao == "Gosta de me destacar.":
-    st.success("Superstar")
+    st.success("Modelo Superstar")
 elif opcao == "Amo conforto e inovação.":
-    st.success("NMD")
+    st.success("Modelo NMD")
 elif opcao == "Busco performance e excelência.":
-    st.success("Ultraboost")
+    st.success("Modelo Ultraboost")
 
