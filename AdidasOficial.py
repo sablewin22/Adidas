@@ -51,14 +51,20 @@ elif opcao == "Sou clássico e estiloso.":
     st.image('https://product-images-cdn.liketoknow.it/EcmHp.l1RPi0s5uVQ5GK07Hke2aef.jJU8NQyq3Dxu8Wl8GjLsrigSvFvNm2mtPTngynWlyfs8U_lW0Rjqp4eziwUwq.EX.ZnYK0h3hLpW4FypBIWNi4IpaK3RNdRPfnCBwoJpYSFVw9I4YDcaYiKw--?v=2&auto=format&fm=webp&w=256&h=256&fit=crop&q=80')
 elif opcao == "Sou criativo, leve e casual.":
     st.success("Modelo Campus")
+    st.image('https://product-images-cdn.liketoknow.it/parVcsO8ZaXogSxjpk0zUYgj3B4vInVCprY3xQv6THOXBjjfb5AleRCUsOnkHZFnDRFM5Jff7j_YKsuTFB5CvHalkrnWMTAV15wUrCtiGJ.tDcNeDffXI_LCBw9RyxB8Pe9KrQH1J5SSiRhmIzj6bQ--?v=2&auto=format&fm=webp&w=256&h=256&fit=crop&q=80')
 elif opcao == "Tenho personalidade forte e bom gosto.":
     st.success("Modelo Gazelle")
+    st.image('https://product-images-cdn.liketoknow.it/bh4XRiHKv3V1hdJD3ySFmBuucAfHfotrAAsl_ZmeqseU_Q93Pm6XQsgsnzeyiWSudUlh7GCxhAFJrjAhPWWAQaTsZlFFlCFHCHIs6WK69kWZfZmOhPGcr01N8SOX1Plzv3s.I8zTqI6AQxKUEElB?v=2&auto=format&fm=webp&w=256&h=256&fit=crop&q=80')
 elif opcao == "Sou moderno e confiante.":
     st.success("Modelo Forum")
+    st.image('https://images.tcdn.com.br/img/img_prod/873473/90_tenis_adidas_forum_low_cl_1591_1_edfd32f9a00012bc50fd162dcb13d716.png')
 elif opcao == "Gosta de me destacar.":
     st.success("Modelo Superstar")
+    st.image('https://product-images-cdn.liketoknow.it/TxvyEJp2xzT3tDdogSPGYz5efCX7aBwFSGdHhpKe9jPcuqfb.fAnUQ4H3QEAyx6e114gNJ81PmilTob4x9oD44Uzq9mjvS8Sak.fb3ztFU72p4g_tkL8sciCDLuT4iYnTcRA9w41eJuPW4vPCeJFXg--?v=2&auto=format&fm=webp&w=256&h=256&fit=crop&q=80')
 elif opcao == "Amo conforto e inovação.":
     st.success("Modelo NMD")
+    st.image('https://product-images-cdn.liketoknow.it/tBcdr6ybG4tfMcpwWkIHbugN5Cv4.GzVCk6XliYykMhUHCyVK2xf7VvRv_klQrvqB3BIZVqewOaQb6i6wFh9lcL8c2pOo57..2Hxe.EhnP9bfyfqiFGDXc1qxXYYfWBcUo8pI78YJdYYfcNLLRhvTw--?v=2&auto=format&fm=webp&w=256&h=256&fit=crop&q=80')
 elif opcao == "Busco performance e excelência.":
     st.success("Modelo Ultraboost")
+    st.image('https://cdn.shopify.com/s/files/1/0672/2106/1933/files/1103755_00_png.png?v=1739333100&width=256')
 
