@@ -48,6 +48,7 @@ if opcao == "Clique e escolha":
     st.write()
 elif opcao == "Sou clássico e estiloso.":
     st.success("Modelo Samba")
+    st.image('https://cdn.dooca.store/296/products/tenis-samba-adv-branco-ie6613-01-standard-photoroom.png?v=1731442037')
 elif opcao == "Sou criativo, leve e casual.":
     st.success("Modelo Campus")
 elif opcao == "Tenho personalidade forte e bom gosto.":
