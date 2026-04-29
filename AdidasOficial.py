@@ -40,11 +40,13 @@ st.markdown("## DESCUBRA O SEU")
 
 opcao = st.selectbox(
     "Escolha o que mais combina com a sua personalidade:",
-    ["Você é clássico e estiloso.","Você é criativo, leve e casual.","Você tem personalidade forte e bom gosto.","Você é moderno e confiante.","Você gosta de se destacar.",
+    ["Clique e escolha","Você é clássico e estiloso.","Você é criativo, leve e casual.","Você tem personalidade forte e bom gosto.","Você é moderno e confiante.","Você gosta de se destacar.",
      "Você ama conforto e inovação.","Você busca performance e excelência."]
 )
 
-if opcao == "Você é clássico e estiloso.":
+if opcao == "Clique e escolha":
+    st.success()
+elif opcao == "Você é clássico e estiloso.":
     st.success("Samba")
 elif opcao == "Você é criativo, leve e casual.":
     st.success("Campus")
