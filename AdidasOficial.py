@@ -3,9 +3,9 @@ import streamlit as st
 
 st.title("O QUE O SEU TÊNIS ADIDAS DIZ SOBRE VOCÊ?")
 
-st.write("Descubra a personalidade de cada modelo e veja qual combina mais com você!")
+st.markdown("#Descubra a personalidade de cada modelo e veja qual combina mais com você!")
 
-st.markdown("### MODELOS ADIDAS")
+st.markdown("## MODELOS ADIDAS")
 
 st.markdown("#### 1. ADIDAS SAMBA:")
 st.image('https://i1.t4s.cz/products/id0478/adidas-originals-samba-og-w-855645-id0478.png')
