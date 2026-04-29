@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 
 st.set_page_config(page_title="Tênis Adidas", layout="centered")
@@ -63,5 +63,4 @@ elif opcao == "NMD":
     st.success("Você ama conforto e inovação.")
 elif opcao == "Ultraboost":
     st.success("Você busca performance e excelência.")
-```
 
