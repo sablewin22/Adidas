@@ -3,7 +3,7 @@ import streamlit as st
 
 st.title("O QUE O SEU TÊNIS ADIDAS DIZ SOBRE VOCÊ?")
 
-st.markdown("### Descubra a personalidade de cada modelo e veja qual combina mais com você!")
+st.markdown("##### Descubra a personalidade de cada modelo e veja qual combina mais com você!")
 
 st.markdown("## MODELOS ADIDAS")
 
