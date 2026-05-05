@@ -68,3 +68,12 @@ elif opcao == "Busco performance e excelência.":
     st.success("Modelo Ultraboost")
     st.image('https://cdn.shopify.com/s/files/1/0672/2106/1933/files/1103755_00_png.png?v=1739333100&width=256')
 
+st.markdown("---")
+st.markdown("## ONDE COMPRAR?")
+st.write('-> SAMBA: ')
+st.write('-> CAMPUS: ')
+st.write('-> GAZELLE: ')
+st.write('-> FORUM: ')
+st.write('-> SUPERSTAR: ')
+st.write('-> NMD: ')
+st.write('-> ULTRABOOST: ')
