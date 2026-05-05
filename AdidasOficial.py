@@ -70,7 +70,7 @@ elif opcao == "Busco performance e excelência.":
 
 st.markdown("---")
 st.markdown("## ONDE COMPRAR?")
-st.write('-> SAMBA: https://www.adidas.com.br/samba')
+st.success('-> SAMBA: https://www.adidas.com.br/samba')
 st.write('-> CAMPUS: https://www.adidas.com.br/campus')
 st.write('-> GAZELLE: https://www.adidas.com.br/gazelle')
 st.write('-> SUPERSTAR: https://www.adidas.com.br/superstar')
