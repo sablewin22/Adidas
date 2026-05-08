@@ -46,4 +46,4 @@ opcao = st.selectbox(
 )
 
 if opcao:
-  df_filtrado = df[df['personalidade'] == personalidade]
+  df_filtrado = df[df['Sou clássico e estiloso'] == Personalidade]
